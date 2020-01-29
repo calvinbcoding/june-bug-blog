@@ -1,0 +1,41 @@
+{
+  "name": "june-bug-blog",
+  "version": "1.0.0",
+  "description": "a simple, full-stack  blogging application written in javascript using an MVC data scructure. Github is the VCS and the package manager used is NPM. MongoDB and Mongoose served as the database and the database/javascript adapter. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinbcoding/june-bug-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "express",
+    "mongodb",
+    "mongoose",
+    "ejs"
+  ],
+  "author": "Calvin Bruch",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "ejs": "3.0.1",
+    "express": "4.17.1",
+    "mongoose": "5.8.10",
+    "method-override": "3.0.0"
+  },
+  "devDependencies": {
+    "morgan": "1.9.1",
+    "mongodb": "3.5.2",
+    "mocha": "7.0.1",
+    "chai": "4.2.0",
+    "lodash": "4.17.15"
+  },
+  "bugs": {
+    "url": "https://github.com/calvinbcoding/june-bug-blog/issues"
+  },
+  "homepage": "https://github.com/calvinbcoding/june-bug-blog#readme"
+}
