@@ -32,7 +32,7 @@
     "mongodb": "3.5.2",
     "mocha": "7.0.1",
     "chai": "4.2.0",
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "bugs": {
     "url": "https://github.com/calvinbcoding/june-bug-blog/issues"
